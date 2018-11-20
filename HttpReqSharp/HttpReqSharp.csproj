@@ -2,6 +2,17 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Version>1.0.1</Version>
+    <Authors>Arthur Heidt</Authors>
+    <Company />
+    <Description>A simple, asynchronous</Description>
+    <Copyright>Arthur Heidt</Copyright>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/ArthurHNL/HttpReqSharp/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/ArthurHNL/HttpReqSharp</PackageProjectUrl>
+    <RepositoryType>Git</RepositoryType>
+    <RepositoryUrl>ssh://git@github.com:ArthurHNL/HttpReqSharp.git</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
